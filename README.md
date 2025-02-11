@@ -15,5 +15,9 @@ This project analyzes Spotify listening data to uncover user behavior, engagemen
 - What time of day do they typically listen to music?
 
 
+<img width="668" alt="spotify pix" src="https://github.com/user-attachments/assets/6e360c66-a1b9-41de-9848-c8ad275ee11f" />
+
+
+
 
 
