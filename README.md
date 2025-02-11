@@ -7,7 +7,7 @@ This project analyzes Spotify listening data to uncover user behavior, engagemen
 ## Data Used
 - <a href="https://mavenanalytics.io/challenges/maven-music-challenge/e161353d-9967-4297-869c-505de168e610">Dataset</a>
 
-# Key Problems
+## Key Problems
 - Which artist did they listen to the most this year? Is it the same as last year?
 
 - Which songs have they played the most? How often do they skip them?
