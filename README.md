@@ -3,3 +3,4 @@ This project analyzes Spotify listening history using Power BI to uncover insigh
 
 ## Project Objective
 This project analyzes Spotify listening data to uncover user behavior, engagement, and music preferences. It examines listening trends, top songs and artists, skip rates, session duration, and platform usage. Power BI is used to create interactive dashboards for insightful data visualization.
+
